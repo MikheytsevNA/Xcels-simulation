@@ -1,0 +1,11 @@
+Running 2 processes on 1 node
+
+List of processes by MPI rank
+MPI rank       3D index        node name
+0              (0, 0, 0)       s02p067
+1              (1, 0, 0)       s02p067
+
+List of ranks by node
+s02p067: 0, 1
+
+

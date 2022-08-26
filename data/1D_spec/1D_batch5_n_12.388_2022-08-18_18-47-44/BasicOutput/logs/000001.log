@@ -1,0 +1,105 @@
+//--------Initialization--------//
+Found 1-dimensional field plot bx2dxy
+The size of saving matrix is 30000 points
+x 
+0 
+0 
+The data is bounded between (-0.008,0.004)
+The saving value is 
+Bx 
+Found 1-dimensional field plot by2dxy
+The size of saving matrix is 30000 points
+x 
+0 
+0 
+The data is bounded between (-0.008,0.004)
+The saving value is 
+By 
+Found 1-dimensional field plot bz2dxy
+The size of saving matrix is 30000 points
+x 
+0 
+0 
+The data is bounded between (-0.008,0.004)
+The saving value is 
+Bz 
+Found 1-dimensional field plot ex2dxy
+The size of saving matrix is 30000 points
+x 
+0 
+0 
+The data is bounded between (-0.008,0.004)
+The saving value is 
+Ex 
+Found 1-dimensional field plot ey2dxy
+The size of saving matrix is 30000 points
+x 
+0 
+0 
+The data is bounded between (-0.008,0.004)
+The saving value is 
+Ey 
+Found 1-dimensional field plot ez2dxy
+The size of saving matrix is 30000 points
+x 
+0 
+0 
+The data is bounded between (-0.008,0.004)
+The saving value is 
+Ez 
+Found 1-dimensional density plot electron2dxy
+The size of saving matrix is 30000 points
+x 
+The data is bounded between (-0.008,0.004)
+The weight function of particle is 
+1 
+The particles type is 0 (Electron)
+Found 1-dimensional density plot electronenergy
+The size of saving matrix is 1000 points
+((((sqrt(((((px * px) + (py * py)) + (pz * pz)) + 0.0000000000000000000000000000000007457946)) - 0.0000000000000000273092406560982479909916) * 29979245800))) 
+The data is bounded between (0,0.00168569)
+The weight function of particle is 
+1 
+The particles type is 0 (Electron)
+Found 1-dimensional density plot ion2dxy
+The size of saving matrix is 30000 points
+x 
+The data is bounded between (-0.008,0.004)
+The weight function of particle is 
+1 
+The particles type is 3 (ion)
+Found 1-dimensional density plot ionenergy
+The size of saving matrix is 1000 points
+((((sqrt(((((px * px) + (py * py)) + (pz * pz)) + 0.0000000000000000000000000193576784207196)) - 0.0000000000001391318742083192700104592669) * 29979245800))) 
+The data is bounded between (0,0.33208)
+The weight function of particle is 
+1 
+The particles type is 3 (ion)
+Found 1-dimensional density plot photon2dxy
+The size of saving matrix is 30000 points
+x 
+The data is bounded between (-0.008,0.004)
+The weight function of particle is 
+((((sqrt(((((px * px) + (py * py)) + (pz * pz)) + 0)) - 0) * 29979245800))) 
+The particles type is 1 (Photon)
+Found 1-dimensional density plot photonenergy
+The size of saving matrix is 1000 points
+((((sqrt(((((px * px) + (py * py)) + (pz * pz)) + 0)) - 0) * 29979245800))) 
+The data is bounded between (0,0.00168569)
+The weight function of particle is 
+1 
+The particles type is 1 (Photon)
+Found 1-dimensional density plot positron2dxy
+The size of saving matrix is 30000 points
+x 
+The data is bounded between (-0.008,0.004)
+The weight function of particle is 
+1 
+The particles type is 2 (Positron)
+Found 1-dimensional density plot positronenergy
+The size of saving matrix is 1000 points
+((((sqrt(((((px * px) + (py * py)) + (pz * pz)) + 0.0000000000000000000000000000000007457946)) - 0.0000000000000000273092406560982479909916) * 29979245800))) 
+The data is bounded between (0,0.00168569)
+The weight function of particle is 
+1 
+The particles type is 2 (Positron)
